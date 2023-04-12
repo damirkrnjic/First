@@ -6,7 +6,7 @@ List of...
 
 List of section.
 
-# Additionl info
+# Additional info
 
 First info.
 Second info.
