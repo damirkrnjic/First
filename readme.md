@@ -8,7 +8,5 @@ List of section.
 
 # Additionl info
 
-Forst inof.
+First info.
 Second info.
-
-Refresh.
